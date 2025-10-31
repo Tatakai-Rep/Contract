@@ -20,6 +20,10 @@ The SignInSystem is a contract that manages user sign-ins with the following fea
 - Owner-only fund management
 - Event emission for sign-in activities
 
+### Deployment
+- Deployed Network: OpBNB Mainnet
+- Contract Address: 0x8fc0178e07310bf081897c7d9625b8180e7c5cef
+- Block Explorer: opbnbscan.com
 
 ## Development
 
